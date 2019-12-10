@@ -1,1 +1,1 @@
-"# Simple wpf app" 
+Simple wpf app that can time things 

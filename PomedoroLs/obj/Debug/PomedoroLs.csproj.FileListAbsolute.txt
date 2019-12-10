@@ -19,7 +19,6 @@ C:\src\PomedoroLs\PomedoroLs\obj\Debug\PomedoroLs.csprojAssemblyReference.cache
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\MainWindow.g.cs
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\App.g.cs
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\PomedoroLs_MarkupCompile.cache
-C:\src\PomedoroLs\PomedoroLs\obj\Debug\PomedoroLs_MarkupCompile.lref
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\MainWindow.baml
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\PomedoroLs.g.resources
 C:\src\PomedoroLs\PomedoroLs\obj\Debug\PomedoroLs.csproj.CoreCompileInputs.cache
