@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\src\PomedoroLs" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PomedoroLs" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="iconfinder_Tomato_56019.png" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PomedoroLs.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="PomedoroLs.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\larss\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\larss\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PomedoroLs.462159129.00" t="ExcludeRecursive" />
+  </component>
+</project>
